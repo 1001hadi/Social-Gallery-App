@@ -9,14 +9,20 @@
       "name": "Brett Brakus"
     },
     {
-      "id": "b0ef",
-      "name": "Mrs. Johanna Effertz"
+      "id": "26ed",
+      "name": "Carolyn Cormier"
     },
     {
-      "id": "2739",
-      "name": "Tommie Becker"
+      "id": "9d06",
+      "name": "Al Krajcik"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hikingtrip",
+      "userId": null
+    }
+  ],
   "photos": []
 }
