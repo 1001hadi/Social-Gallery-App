@@ -5,16 +5,8 @@
       "name": "Ali"
     },
     {
-      "id": "3ed1",
-      "name": "Brett Brakus"
-    },
-    {
-      "id": "26ed",
-      "name": "Carolyn Cormier"
-    },
-    {
-      "id": "9d06",
-      "name": "Al Krajcik"
+      "id": "fbc4",
+      "name": "Felicia Corwin"
     }
   ],
   "albums": [
@@ -22,6 +14,86 @@
       "id": 10,
       "title": "hikingtrip",
       "userId": null
+    },
+    {
+      "id": "98b1",
+      "userId": null,
+      "title": "Refined Wooden Chair"
+    },
+    {
+      "id": "2aec",
+      "userId": null,
+      "title": "Unbranded Fresh Tuna"
+    },
+    {
+      "id": "984a",
+      "userId": null,
+      "title": "Awesome Concrete Salad"
+    },
+    {
+      "id": "a4f3",
+      "userId": null,
+      "title": "Electronic Concrete Computer"
+    },
+    {
+      "id": "f407",
+      "userId": null,
+      "title": "Oriental Steel Keyboard"
+    },
+    {
+      "id": "d1dd",
+      "userId": null,
+      "title": "Unbranded Cotton Pizza"
+    },
+    {
+      "id": "9d93",
+      "userId": null,
+      "title": "Fantastic Granite Bike"
+    },
+    {
+      "id": "959a",
+      "userId": null,
+      "title": "Oriental Cotton Bike"
+    },
+    {
+      "id": "1a7b",
+      "userId": null,
+      "title": "Modern Concrete Keyboard"
+    },
+    {
+      "id": "c535",
+      "userId": null,
+      "title": "Bespoke Plastic Car"
+    },
+    {
+      "id": "b1a2",
+      "userId": null,
+      "title": "Sleek Concrete Chips"
+    },
+    {
+      "id": "7385",
+      "userId": null,
+      "title": "Fantastic Plastic Bacon"
+    },
+    {
+      "id": "85bc",
+      "userId": null,
+      "title": "Sleek Bronze Keyboard"
+    },
+    {
+      "id": "967d",
+      "userId": null,
+      "title": "Rustic Rubber Chicken"
+    },
+    {
+      "id": "0180",
+      "userId": 1,
+      "title": "Awesome Wooden Gloves"
+    },
+    {
+      "id": "8444",
+      "userId": "fbc4",
+      "title": "Modern Wooden Chips"
     }
   ],
   "photos": []
